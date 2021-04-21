@@ -13,13 +13,11 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "app.uiysawcjyi",
-      "buildNumber": "1.1.1",
+      "buildNumber": "1.0.0",
       "infoPlist": {
         "UIBackgroundModes": ["audio"]
       }
